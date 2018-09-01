@@ -3,4 +3,5 @@ in v1+1
 V+2
 add by trail1/trial
 after remote remove, add this
+alone advance
 
