@@ -3,3 +3,5 @@ in v1+1
 V+2
 add by trail1/trial
 trail1 add this
+after remote remove, add this
+alone advance
